@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StellarisSaveRename": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\lars\\OneDrive\\Dokument\\Paradox Interactive\\Stellaris\\save games\\meshbenfreerepublic_-1170856087\\2200.01.01.sav\" \"Test\""
+    }
+  }
+}
